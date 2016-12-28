@@ -1,0 +1,987 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"sli",
+				"slideTxtBox"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"S",
+				"superslider01"
+			],
+			[
+				"ret",
+				"return	Default"
+			],
+			[
+				"ty",
+				"typeof	Default"
+			],
+			[
+				"node",
+				"nodeType"
+			],
+			[
+				"walk",
+				"walk_the_dom	Default"
+			],
+			[
+				"firs",
+				"firstChild"
+			],
+			[
+				"fucn",
+				"function	Default"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"app",
+				"apply()	Function"
+			],
+			[
+				"he",
+				"helper	Default"
+			],
+			[
+				"inre",
+				"increment	Default"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"par",
+				"parent	.parent()"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"srr",
+				"str_string4"
+			],
+			[
+				"sr",
+				"str_string3"
+			],
+			[
+				"st",
+				"str_string2"
+			],
+			[
+				"string",
+				"str_string1"
+			],
+			[
+				"da",
+				"data_int4"
+			],
+			[
+				"dat",
+				"data_int3"
+			],
+			[
+				"me",
+				"memory_get_usage"
+			],
+			[
+				"my",
+				"my_book"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"bakc",
+				"background-position"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"dou",
+				"documentElement	(html) Document"
+			],
+			[
+				"webk",
+				"webkitRequestFullScreen	Default"
+			],
+			[
+				"retun",
+				"returnValue"
+			],
+			[
+				"clear",
+				"clearInterval()	Frame"
+			],
+			[
+				"add",
+				"addEventListener()"
+			],
+			[
+				"of",
+				"offset	.offset()"
+			],
+			[
+				"tolo",
+				"toLowerCase()	String"
+			],
+			[
+				"isS",
+				"isSupportSVG	Default"
+			],
+			[
+				"createEle",
+				"createElemnttNS	Default"
+			],
+			[
+				"stoo",
+				"stopPropagation()	Event"
+			],
+			[
+				"stop",
+				"stopPropagation()	Event"
+			],
+			[
+				"query",
+				"querySelectorAll()"
+			],
+			[
+				"Stri",
+				"stringify()	JSON"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"pre",
+				"pre-wrap"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"str",
+				"stringify()	JSON"
+			],
+			[
+				"j",
+				"jsonp	Default"
+			],
+			[
+				"stri",
+				"stringify()	JSON"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"call",
+				"callback	Default"
+			],
+			[
+				"scrip",
+				"scriptElement	Default"
+			],
+			[
+				"craet",
+				"createElement()	Document"
+			],
+			[
+				"cpm",
+				"completed	Default"
+			],
+			[
+				"comple",
+				"completed	Default"
+			],
+			[
+				"co",
+				"completed	Default"
+			],
+			[
+				"demo",
+				"demoApp	Default"
+			],
+			[
+				"bro",
+				"browserSync	Default"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"fun",
+				"function	Default"
+			],
+			[
+				"sri",
+				"script"
+			],
+			[
+				"que",
+				"querystring	Default"
+			],
+			[
+				"reqe",
+				"require	Default"
+			],
+			[
+				"psot",
+				"postData	Default"
+			],
+			[
+				"req",
+				"request	Default"
+			],
+			[
+				"sin",
+				"singin	Default"
+			],
+			[
+				"requ",
+				"requrl	Default"
+			],
+			[
+				"reu",
+				"require	Default"
+			],
+			[
+				"boe",
+				"border"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pd",
+				"padding"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pddin",
+				"padding-left"
+			],
+			[
+				"stroke",
+				"strokeStyle	Canvas 2"
+			],
+			[
+				"fi",
+				"fillStyle	Canvas 2"
+			],
+			[
+				"op",
+				"option	Default"
+			],
+			[
+				"sca",
+				"scaleY	Default"
+			],
+			[
+				"sac",
+				"scaleX	Default"
+			],
+			[
+				"roat",
+				"rotation	Default"
+			],
+			[
+				"rotat",
+				"rotation	Default"
+			],
+			[
+				"frame",
+				"frameindex=0	Default"
+			],
+			[
+				"fr",
+				"frameindex=0	Default"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"ax",
+				"axiW	Default"
+			],
+			[
+				"set",
+				"setInterval()	Frame"
+			],
+			[
+				"quer",
+				"querySelectorAll()"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"I",
+				"Image()"
+			],
+			[
+				"dra",
+				"drawImage()	Canvas 2"
+			],
+			[
+				"an",
+				"angle	Default"
+			],
+			[
+				"fill",
+				"fillStyle	Canvas 2"
+			],
+			[
+				"deto",
+				"degtoRod	Default"
+			],
+			[
+				"stro",
+				"strokeStyle	Canvas 2"
+			],
+			[
+				"axi",
+				"axiH	Default"
+			],
+			[
+				"lie",
+				"lineWidth	Canvas 2"
+			],
+			[
+				"linet",
+				"lineTo()	Canvas 2"
+			],
+			[
+				"mo",
+				"moveTo()	Window"
+			],
+			[
+				"rec",
+				"rectW	Default"
+			],
+			[
+				"rect",
+				"rectH	Default"
+			],
+			[
+				"lin",
+				"lineWidth	Canvas 2"
+			],
+			[
+				"close",
+				"closePath()	Canvas 2"
+			],
+			[
+				"lien",
+				"lineTo	Default"
+			],
+			[
+				"line",
+				"lineTo()	Canvas 2"
+			],
+			[
+				"get",
+				"getContext()	Canvas"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"var",
+				"font-variant"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bcgr",
+				"background"
+			],
+			[
+				"boedr-",
+				"border-bottom"
+			],
+			[
+				"ps",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"setm",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"seh",
+				"Set Syntax: HTML"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"setmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"setj",
+				"Set Syntax: JSON"
+			],
+			[
+				"SEHT",
+				"Set Syntax: HTML"
+			],
+			[
+				"setmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"setja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ste",
+				"Set Syntax: Textile"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package→删除程序包"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Round/Desktop/readme.md",
+		"/C/Users/Round/Desktop/c3animation-demo.html",
+		"/C/Users/Round/Desktop/bfc.html",
+		"/C/Users/Round/Desktop/bfc2.html",
+		"/C/Users/Round/Desktop/samples/superslide/sps01.html",
+		"/C/Users/Round/Desktop/commoncode/popularjs.js",
+		"/C/Users/Round/Desktop/ife-work/.gitignore",
+		"/C/Users/Round/Desktop/每天必撸代码.js",
+		"/C/Users/Round/Desktop/samples/superslide/lib/jquery.SuperSlide.2.1.1.js",
+		"/C/Users/Round/Desktop/PHP/notes.mdown",
+		"/C/Users/Round/Desktop/PHP/php-01变量.php",
+		"/C/Users/Round/Desktop/20ke/下拉菜单/特效菜单1.html",
+		"/C/Users/Round/Desktop/基础知识/js基础-绿叶.mdown",
+		"/C/Users/Round/Desktop/basejscode.js",
+		"/C/Users/Round/Desktop/tab-01.html",
+		"/C/Users/Round/Desktop/PHP/php-01.html",
+		"/C/Users/Round/Downloads/Resume-gh-pages/Resume-gh-pages/dist/css/print.min.css",
+		"/C/Users/Round/Desktop/project/www/about.html",
+		"/C/Users/Round/Downloads/Resume-gh-pages/Resume-gh-pages/print.html",
+		"/C/Users/Round/Desktop/jsmdn.mdown",
+		"/C/Users/Round/Desktop/后宫图/在下版本/1.html",
+		"/C/Users/Round/Desktop/后宫图/在下版本/banban01.jpg",
+		"/C/Users/Round/Desktop/flexbox.html",
+		"/C/Users/Round/Desktop/project/www/blog.html",
+		"/C/Users/Round/Desktop/project/www/index.html",
+		"/C/Users/Round/Desktop/project/www/gallery.html",
+		"/C/Users/Round/Desktop/jsday1221.js",
+		"/C/Users/Round/Desktop/baidu-ife/2015/task01/task0001/about.html",
+		"/C/Users/Round/Desktop/baidu-ife/2015/task01/task0001/gallery.html",
+		"/C/Users/Round/Desktop/baidu-ife/2015/task01/task0001/blog.html",
+		"/C/Users/Round/Desktop/baidu-ife/2015/task01/task0001/index.html",
+		"/C/Users/Round/Desktop/baidu-ife/2015/task01/1-6/task0001.css",
+		"/C/Users/Round/Desktop/baidu-ife/2015/task01/1-6/task0001.html",
+		"/C/Users/Round/Desktop/baidu-ife/2015/task01/1-6/001testfile.html",
+		"/C/Users/Round/Downloads/Resume-gh-pages/Resume-gh-pages/src/css/style.scss",
+		"/C/Users/Round/Downloads/Resume-gh-pages/Resume-gh-pages/src/css/fontello.scss",
+		"/C/Users/Round/Downloads/Resume-gh-pages/Resume-gh-pages/src/css/print.scss",
+		"/C/Users/Round/Downloads/Resume-gh-pages/Resume-gh-pages/dist/css/fontello.min.css",
+		"/C/Users/Round/Downloads/Resume-gh-pages/Resume-gh-pages/dist/css/style.min.css",
+		"/C/Users/Round/Downloads/Resume-gh-pages/Resume-gh-pages/index.html",
+		"/C/Users/Round/Desktop/rotate.html",
+		"/C/Users/Round/Desktop/music/music/app/music_list/controller.js",
+		"/C/Users/Round/Desktop/music/music/app/music_list/view.html",
+		"/C/Users/Round/Desktop/moviecat/doubanmovie/.git/config",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/07 流行框架第7天 02-19/2016-02-19/sources/04-requirejs/01-main.js",
+		"/C/Users/Round/Desktop/music/music/app/app.js",
+		"/C/Users/Round/Desktop/music/music/app/app.css",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/moviecat/app/components/auto-focus.js",
+		"/C/Users/Round/Desktop/music/music/app/index.html",
+		"/C/Users/Round/Desktop/moviecat/doubanmovie/.git/shallow",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/moviecat/app/app/in_theaters/controller.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/moviecat/app/app.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/moviecat/app/app/in_theaters/view.html",
+		"/C/Users/Round/Desktop/moviecat/moviecat/crossdomain/jsonp.html",
+		"/C/Users/Round/Desktop/moviecat/moviecat/crossdomain/jsonp.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/demo/moviecat/index.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/crossdomain/index.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/crossdomain/http.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/crossdomain/jsonp.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/demo/moviecat/movie/controller.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/demo/moviecat/movie/view.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/demo/moviecat/app.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/demo/moviecat/movie_detail/controller.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/demo/moviecat/movie_detail/view.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/moviecat/app/datas/top250.json",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/moviecat/app/app/in_theaters/npm-debug.log",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/06 流行框架第6天 2016-02-17/2016-02-17/moviecat/app/datas/in_theaters.json",
+		"/C/Users/Round/Desktop/itcast/todomvc-app-template-master/todomvc-app-template-master/index.html",
+		"/C/Users/Round/Desktop/itcast/todomvc-app-template-master/todomvc-app-template-master/js/app.js",
+		"/C/Users/Round/Desktop/formtest/form_jqvalidate.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/2016-01-30/2016-01-30/todomvc-app-template/index.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/2016-01-30/2016-01-30/todomvc-app-template/js/app.js",
+		"/C/Users/Round/Desktop/itcast/demo-angular/01helloworld.html",
+		"/C/Users/Round/Desktop/itcast/demo-angular/ng-switch.html",
+		"/C/Users/Round/Desktop/itcast/demo-angular/ng-xxx.html",
+		"/C/Users/Round/Desktop/itcast/demo-angular/ng自定义指令.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/08-ng-class2.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/09-ng-class3.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/10-ng-cloak.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/11-ng-show.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/12-ng-src.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/07-ng-class.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/06-ng-repeat.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/05-ng-bind-html.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/04-ng-bind.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/03-ng-app2.html",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/04 流行框架第4天 01-30/code/02-ng-app.html",
+		"/C/Users/Round/Desktop/1207angularjs.md",
+		"/C/Program Files (x86)/Sublime Text3/Sublime Text3/Data/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/Users/Round/Desktop/testfile.html",
+		"/C/Users/Round/Desktop/1207angularjs.dmd",
+		"/C/Users/Round/Desktop/gulp-demo/1206nodegulp.md",
+		"/C/Users/Round/Desktop/gulp-demo/package.json",
+		"/C/Users/Round/Desktop/gulp-demo/gulpfile.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/02 第二天git的介绍及使用 01-27/2016-01-27/gulp-demo/gulpfile.js",
+		"/C/Users/Round/Desktop/gulp-demo/dest/index.html",
+		"/C/Users/Round/Desktop/gulp-demo/index.html",
+		"/C/Users/Round/Desktop/gulptest/gulpfile.js",
+		"/C/Users/Round/Desktop/gulp-demo/src/styles/gakki.less",
+		"/C/Users/Round/Desktop/gulp-demo/dest/styles/gakki.css",
+		"/C/Users/Round/Desktop/gulp-demo/src/styles/gakki2.less",
+		"/C/Users/Round/Desktop/gulp-demo/src/scripts/gakki2.js",
+		"/C/Users/Round/Desktop/gulp-demo/src/scripts/gakki1.js",
+		"/C/Users/Round/Desktop/gulptest/dist/index.html",
+		"/C/Users/Round/Desktop/nodetest/formtest.html",
+		"/C/Users/Round/Desktop/nodetest/login.js",
+		"/C/Users/Round/Desktop/流行框架1.md",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/01 第一天环境配置及工具使用 01-26/01课件/README.md",
+		"/C/Users/Round/Desktop/formtest.html",
+		"/C/Users/Round/Desktop/logoin.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/01 第一天环境配置及工具使用 01-26/01课件/code/login.js",
+		"/C/Users/Round/Downloads/13主流框架/12.主流框架/01 第一天环境配置及工具使用 01-26/01课件/logoin.js",
+		"/C/Users/Round/Desktop/itcast/basetest/JD/index.html",
+		"/C/Users/Round/Desktop/itcast/basetest/JD/css/index.css",
+		"/C/Users/Round/Desktop/itcast/basetest/JD/test.html",
+		"/C/Users/Round/Documents/04 前端基本功（京东实战+各种特效，必会）/01 前端基本功-css 实战1/案例/京东网页/css/base.css",
+		"/C/Users/Round/Desktop/itcast/basetest/JD/css/reset.css",
+		"/C/Users/Round/Desktop/project/weijinsuo/css/main.css",
+		"/C/Users/Round/Documents/04 前端基本功（京东实战+各种特效，必会）/01 前端基本功-css 实战1/案例/京东网页/index.html",
+		"/C/Users/Round/Desktop/canvas/testrect.js",
+		"/C/Users/Round/Desktop/canvas/00canavas.html",
+		"/C/Users/Round/Documents/10canvas入门/canvas02/02-Canvas-第2天Canvas进阶与Konva框架使用/4-源代码/4-源代码/demos/08绘制图片.html",
+		"/C/Users/Round/Documents/10canvas入门/canvas02/02-Canvas-第2天Canvas进阶与Konva框架使用/4-源代码/4-源代码/demos/test.html",
+		"/C/Users/Round/Desktop/20ke/响应式开发/img/c_06.jpg",
+		"/C/Program Files (x86)/Sublime Text3/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Round/Documents/10canvas入门/canvas02/02-Canvas-第2天Canvas进阶与Konva框架使用/4-源代码/4-源代码/demos/imgs/1.png",
+		"/C/Program Files (x86)/Sublime Text3/Sublime Text3/Data/Packages/User/Plain text.sublime-settings",
+		"/C/Program Files (x86)/Sublime Text3/Sublime Text3/Data/Packages/User/EncodingHelper.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=\"\"></",
+			"。",
+			";",
+			"icon",
+			"icon-tel",
+			"\"></",
+			"font-size",
+			"height:1782px",
+			"height",
+			"note",
+			"ng-model",
+			"ng-checked1",
+			"ng-model",
+			"'true'",
+			"name=\"\" id=\"\"",
+			"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>使用nodejs实现登录功能</title>\n</head>\n<body>\n	<form action=\"/post\" method=\"post\">\n		<table border=\"1\">\n			<tr>\n				<td>username</td>\n				<td><input tyep=\"text\" name=\"username\"></td>\n			</tr>\n			<tr>\n				<td>passoword</td>\n				<td><input type=\"password\" name=\"password\"> </td>\n			</tr>\n			<tr>\n				<td></td>\n				<td><input type=\"submit\"> </td>\n			</tr>\n		</table>\n	</form>\n	\n</body>\n</html>",
+			";\n",
+			";",
+			";\n",
+			"title",
+			"value",
+			" .",
+			".shoplist",
+			"carousel",
+			"javascript: ;",
+			"nv_fy",
+			"href=\"\"",
+			"f=\"\"",
+			"\"\"",
+			"red",
+			"<span>分类查询</span>",
+			".pn",
+			"alt",
+			"=\"\"",
+			"img",
+			"\" \"",
+			"=\" ",
+			"\" \"",
+			"40px",
+			"date",
+			"28px",
+			"></",
+			"in",
+			"active",
+			">.na",
+			">.",
+			">.nav-tabs",
+			"			\n",
+			"...",
+			"..",
+			"default",
+			".nav_tabs",
+			"home",
+			"settings",
+			"messages",
+			"pane",
+			";\n",
+			"$nbsp;$nbsp",
+			"<i class=\"icon-uniE907\"></i>",
+			"icon-uniE907",
+			"\"></",
+			"><",
+			"DDDDD",
+			"// 需要将当前用户点击的 li 里的内容更新到 input 里。\n		$('li').click(function(){\n\n			//var oTxt = $(this).html();\n\n			alert( 111111111 );\n\n		});",
+			"}\n",
+			";\n",
+			"$('ul').animate({'left':-iNum1*900},500);",
+			"act",
+			"img/ad01.jp",
+			"mouseout",
+			"animate",
+			"<li>",
+			"num",
+			" class=\"\"",
+			"26px",
+			" class=\"\"",
+			"<p>",
+			";\n",
+			"text",
+			"li1",
+			"ccc",
+			"li",
+			"></",
+			"aBtn",
+			"b",
+			"			\n",
+			"		\n",
+			"console.log",
+			"cons",
+			"alt=\"\"",
+			"console",
+			");\n",
+			"touch",
+			"banner",
+			"img",
+			"    		<",
+			"</l",
+			"<li",
+			"li",
+			"		\n",
+			"></",
+			";\n",
+			"[微博]",
+			"sheet",
+			"td",
+			"/>\n",
+			">",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"oBtn",
+			"image",
+			"span",
+			"th"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"can",
+				"canvas\\canvas画坐标轴.html"
+			],
+			[
+				"htmlca",
+				"C:\\Program Files (x86)\\Sublime Text3\\Sublime Text3\\Data\\Packages\\User\\snippets\\htmlcanvas.sublime-snippet"
+			],
+			[
+				"",
+				"响应式开发\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
